@@ -1,0 +1,25 @@
+# Ignore PDFs
+*.pdf
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+venv/
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
