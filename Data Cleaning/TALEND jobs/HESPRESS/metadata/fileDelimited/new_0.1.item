@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_LECggKdxEe6CSJdbJZ5jVw" name="new" id="_LEB5cKdxEe6CSJdbJZ5jVw" dataPackage="_LECggadxEe6CSJdbJZ5jVw" Server="Localhost 127.0.0.1" FilePath="C:/Users/ADMIN/Desktop/EST SALE 2024/lefdaoui/Hespress data/Hespress_Scraping.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FooterValue="0" LimitValue="" FirstLineCaption="true" EscapeChar="&quot;\&quot;&quot;" TextEnclosure="&quot;\&quot;&quot;"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_LECggadxEe6CSJdbJZ5jVw" name="default" dataManager="_LECggKdxEe6CSJdbJZ5jVw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_LECggqdxEe6CSJdbJZ5jVw" id="_AtyeYKdxEe6CSJdbJZ5jVw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LECgg6dxEe6CSJdbJZ5jVw" label="Author" length="486" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LECghKdxEe6CSJdbJZ5jVw" label="Date" length="39" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LECghadxEe6CSJdbJZ5jVw" label="Reaction" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LECghqdxEe6CSJdbJZ5jVw" label="Comment" length="1625" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
